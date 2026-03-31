@@ -1,218 +1,218 @@
 [
   {
+    "brand": "혼다",
+    "model": "CR-V 5세대 1.5 EX-L 2WD",
+    "year": 2021,
+    "mileage_km": 68531,
+    "price": "30,900,000 KRW",
+    "photo": "https://ci.encar.com/carpicture09/pic4119/41196722_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41202158"
+  },
+  {
+    "brand": "아우디",
+    "model": "A6 (C8) 45 TFSI 콰트로 프리미엄",
+    "year": 2020,
+    "mileage_km": 74925,
+    "price": "34,700,000 KRW",
+    "photo": "https://ci.encar.com/carpicture08/pic3838/38383969_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=38392402"
+  },
+  {
     "brand": "현대",
-    "model": "스타리아 라운지 7인승",
-    "year": 2024,
-    "mileage_km": 89893,
-    "price": "36,900,000 KRW",
-    "photo": "https://ci.encar.com/carpicture05/pic4145/41451201_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41452954"
+    "model": "더 뉴 코나 하이브리드 인스퍼레이션",
+    "year": 2020,
+    "mileage_km": 117782,
+    "price": "17,100,000 KRW",
+    "photo": "https://ci.encar.com/carpicture10/pic4160/41609639_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41612230"
   },
   {
-    "brand": "기아",
-    "model": "니로 럭셔리",
-    "year": 2018,
-    "mileage_km": 140884,
-    "price": "10,000,000 KRW",
-    "photo": "https://ci.encar.com/carpicture06/pic4146/41460852_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41462575"
-  },
-  {
-    "brand": "기아",
-    "model": "더 뉴 K3 트렌디",
-    "year": 2018,
-    "mileage_km": 63540,
-    "price": "9,900,000 KRW",
-    "photo": "https://ci.encar.com/carpicture05/pic4145/41459434_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41472870"
-  },
-  {
-    "brand": "포르쉐",
-    "model": "911 카레라 4 GTS",
-    "year": 2019,
-    "mileage_km": 105465,
-    "price": "91,000,000 KRW",
-    "photo": "https://ci.encar.com/carpicture01/pic4141/41413285_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41421545"
-  },
-  {
-    "brand": "기아",
-    "model": "더 뉴 쏘렌토 디젤 2.2 2WD",
+    "brand": "쉐보레(GM대우)",
+    "model": "더 뉴 트랙스 1.4 프리미어",
     "year": 2017,
-    "mileage_km": 100696,
-    "price": "17,900,000 KRW",
-    "photo": "https://ci.encar.com/carpicture10/pic4140/41406603_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41410632"
-  },
-  {
-    "brand": "미니",
-    "model": "쿠퍼 S JCW",
-    "year": 2023,
-    "mileage_km": 22431,
-    "price": "35,700,000 KRW",
-    "photo": "https://ci.encar.com/carpicture05/pic4115/41158414_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41295127"
-  },
-  {
-    "brand": "제네시스",
-    "model": "GV80 2.5T 가솔린 AWD",
-    "year": 2023,
-    "mileage_km": 65764,
-    "price": "57,200,000 KRW",
-    "photo": "https://ci.encar.com/carpicture07/pic4127/41276503_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41279950"
-  },
-  {
-    "brand": "벤츠",
-    "model": "S-클래스 W223 마이바흐 S580 4MATIC",
-    "year": 2022,
-    "mileage_km": 50154,
-    "price": "143,900,000 KRW",
-    "photo": "https://ci.encar.com/carpicture07/pic4127/41276578_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41283070"
-  },
-  {
-    "brand": "포드",
-    "model": "F150 3.5L",
-    "year": 2021,
-    "mileage_km": 84140,
-    "price": "71,500,000 KRW",
-    "photo": "https://ci.encar.com/carpicture10/pic4120/41209254_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41217399"
-  },
-  {
-    "brand": "포르쉐",
-    "model": "911 (992) 카레라",
-    "year": 2021,
-    "mileage_km": 48358,
-    "price": "140,000,000 KRW",
-    "photo": "https://ci.encar.com/carpicture07/pic4117/41174839_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41179188"
+    "mileage_km": 116572,
+    "price": "8,700,000 KRW",
+    "photo": "https://ci.encar.com/carpicture10/pic4160/41608453_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41612288"
   },
   {
     "brand": "제네시스",
     "model": "GV70 2.5T 가솔린 AWD",
-    "year": 2023,
-    "mileage_km": 18015,
-    "price": "55,200,000 KRW",
-    "photo": "https://ci.encar.com/carpicture09/pic4119/41195386_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41196468"
-  },
-  {
-    "brand": "현대",
-    "model": "더 뉴 팰리세이드 디젤 2.2 4WD",
-    "year": 2023,
-    "mileage_km": 66732,
-    "price": "44,000,000 KRW",
-    "photo": "https://ci.encar.com/carpicture05/pic4105/41052773_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41053154"
-  },
-  {
-    "brand": "BMW",
-    "model": "3시리즈 (G20) 320i 럭셔리",
     "year": 2021,
-    "mileage_km": 31975,
-    "price": "34,000,000 KRW",
-    "photo": "https://ci.encar.com/carpicture04/pic4104/41049560_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41057499"
+    "mileage_km": 127325,
+    "price": "36,000,000 KRW",
+    "photo": "https://ci.encar.com/carpicture03/pic4163/41634799_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41635242"
   },
   {
-    "brand": "아우디",
-    "model": "A7 (4K) 55 TFSI 콰트로 프리미엄",
-    "year": 2023,
-    "mileage_km": 46283,
-    "price": "64,600,000 KRW",
-    "photo": "https://ci.encar.com/carpicture10/pic4100/41007301_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41022167"
-  },
-  {
-    "brand": "현대",
-    "model": "싼타페 (MX5) 가솔린 2.5T 4WD",
-    "year": 2023,
-    "mileage_km": 20528,
-    "price": "38,500,000 KRW",
-    "photo": "https://ci.encar.com/carpicture09/pic4099/40993343_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41007264"
-  },
-  {
-    "brand": "BMW",
-    "model": "X7 (G07) xDrive 40i M 스포츠 6인승",
-    "year": 2022,
-    "mileage_km": 71678,
-    "price": "83,000,000 KRW",
-    "photo": "https://ci.encar.com/carpicture02/pic4092/40923245_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=40935365"
-  },
-  {
-    "brand": "BMW",
-    "model": "X7 (G07) xDrive 40i 디자인 퓨어 엑셀런스 6인승",
-    "year": 2022,
-    "mileage_km": 23573,
-    "price": "92,000,000 KRW",
-    "photo": "https://ci.encar.com/carpicture02/pic4092/40926562_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=40930684"
-  },
-  {
-    "brand": "포르쉐",
-    "model": "파나메라 (971) 4.0 GTS",
+    "brand": "제네시스",
+    "model": "GV70 2.2 디젤 2WD",
     "year": 2021,
-    "mileage_km": 71759,
-    "price": "117,700,000 KRW",
-    "photo": "https://ci.encar.com/carpicture01/pic3961/39616265_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=39628463"
+    "mileage_km": 94605,
+    "price": "33,500,000 KRW",
+    "photo": "https://ci.encar.com/carpicture04/pic4164/41640484_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41642684"
   },
   {
     "brand": "현대",
-    "model": "그랜저 HG 하이브리드 프리미엄",
-    "year": 2014,
-    "mileage_km": 148576,
-    "price": "8,990,000 KRW",
-    "photo": "https://ci.encar.com/carpicture06/pic4166/41664874_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41678390"
-  },
-  {
-    "brand": "현대",
-    "model": "더 뉴 스타리아 L3.5 카고 3인승",
-    "year": 2025,
-    "mileage_km": 1357,
-    "price": "31,500,000 KRW",
-    "photo": "https://ci.encar.com/carpicture06/pic4166/41665696_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41666804"
-  },
-  {
-    "brand": "현대",
-    "model": "싼타페 DM 디젤(e-VGT) 2.0 4WD 프리미엄",
-    "year": 2013,
-    "mileage_km": 93221,
-    "price": "11,200,000 KRW",
-    "photo": "https://ci.encar.com/carpicture07/pic4167/41672064_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41680123"
-  },
-  {
-    "brand": "기아",
-    "model": "카니발 4세대 가솔린 9인승 시그니처",
+    "model": "투싼 하이브리드 (NX4) 인스퍼레이션 2WD",
     "year": 2022,
-    "mileage_km": 37315,
-    "price": "29,400,000 KRW",
-    "photo": "https://ci.encar.com/carpicture08/pic4138/41389577_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41390386"
+    "mileage_km": 31132,
+    "price": "32,400,000 KRW",
+    "photo": "https://ci.encar.com/carpicture10/pic4160/41602507_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41607719"
   },
   {
     "brand": "KG모빌리티(쌍용)",
-    "model": "G4 렉스턴 디젤 2.2 4WD",
+    "model": "렉스턴 스포츠 칸 디젤 2.2 4WD",
+    "year": 2020,
+    "mileage_km": 56041,
+    "price": "20,900,000 KRW",
+    "photo": "https://ci.encar.com/carpicture08/pic4168/41689997_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41696737"
+  },
+  {
+    "brand": "기아",
+    "model": "더 뉴 쏘렌토 디젤 2.0 2WD",
     "year": 2017,
-    "mileage_km": 107419,
-    "price": "16,200,000 KRW",
-    "photo": "https://ci.encar.com/carpicture07/pic4137/41375050_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41380243"
+    "mileage_km": 128416,
+    "price": "14,500,000 KRW",
+    "photo": "https://ci.encar.com/carpicture10/pic4020/40209041_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=40212936"
+  },
+  {
+    "brand": "기아",
+    "model": "K8 2.5 가솔린 2WD",
+    "year": 2022,
+    "mileage_km": 92665,
+    "price": "25,200,000 KRW",
+    "photo": "https://ci.encar.com/carpicture02/pic4162/41620167_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41624917"
+  },
+  {
+    "brand": "제네시스",
+    "model": "G80 (RG3) 가솔린 2.5 터보 AWD",
+    "year": 2022,
+    "mileage_km": 52392,
+    "price": "44,500,000 KRW",
+    "photo": "https://ci.encar.com/carpicture06/pic4166/41668196_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41678778"
+  },
+  {
+    "brand": "제네시스",
+    "model": "G80 (RG3) 가솔린 2.5 터보 AWD",
+    "year": 2022,
+    "mileage_km": 91584,
+    "price": "39,900,000 KRW",
+    "photo": "https://ci.encar.com/carpicture03/pic4173/41736102_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41737782"
+  },
+  {
+    "brand": "기아",
+    "model": "EV6 롱레인지 4WD",
+    "year": 2023,
+    "mileage_km": 79809,
+    "price": "35,500,000 KRW",
+    "photo": "https://ci.encar.com/carpicture06/pic4166/41668174_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41676528"
+  },
+  {
+    "brand": "기아",
+    "model": "올 뉴 K7 2.4 GDI 리미티드",
+    "year": 2017,
+    "mileage_km": 128993,
+    "price": "12,200,000 KRW",
+    "photo": "https://ci.encar.com/carpicture04/pic4174/41746629_001.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41757258"
+  },
+  {
+    "brand": "아우디",
+    "model": "A6 (C8) 45 TFSI",
+    "year": 2020,
+    "mileage_km": 69274,
+    "price": "33,900,000 KRW",
+    "photo": "https://ci.encar.com/carpicture03/pic4133/41335549_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41336236"
+  },
+  {
+    "brand": "현대",
+    "model": "제네시스 BH380 프레스티지",
+    "year": 2013,
+    "mileage_km": 175498,
+    "price": "6,900,000 KRW",
+    "photo": "https://ci.encar.com/carpicture05/pic4175/41759854_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41761369"
+  },
+  {
+    "brand": "BMW",
+    "model": "3시리즈 (G20) 330i xDrive M 스포츠",
+    "year": 2019,
+    "mileage_km": 126996,
+    "price": "29,900,000 KRW",
+    "photo": "https://ci.encar.com/carpicture02/pic4172/41728730_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41740342"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3 (G01) xDrive 20d M 스포츠",
+    "year": 2019,
+    "mileage_km": 109268,
+    "price": "31,500,000 KRW",
+    "photo": "https://ci.encar.com/carpicture07/pic4167/41678539_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41688292"
+  },
+  {
+    "brand": "BMW",
+    "model": "5시리즈 (G30) M550i xDrive",
+    "year": 2021,
+    "mileage_km": 73000,
+    "price": "53,500,000 KRW",
+    "photo": "https://ci.encar.com/carpicture05/pic4155/41558378_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41561781"
+  },
+  {
+    "brand": "폭스바겐",
+    "model": "티구안 2세대 2.0 TDI 프리미엄",
+    "year": 2018,
+    "mileage_km": 117469,
+    "price": "17,500,000 KRW",
+    "photo": "https://ci.encar.com/carpicture05/pic4175/41759838_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41761899"
   },
   {
     "brand": "벤츠",
-    "model": "G-클래스 W463b AMG G63",
-    "year": 2021,
-    "mileage_km": 69093,
-    "price": "154,000,000 KRW",
-    "photo": "https://ci.encar.com/carpicture05/pic4135/41352318_001.jpg",
-    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41359155"
+    "model": "E-클래스 W213 E300 4MATIC 익스클루시브",
+    "year": 2018,
+    "mileage_km": 175148,
+    "price": "20,900,000 KRW",
+    "photo": "https://ci.encar.com/carpicture03/pic4143/41431257_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41437994"
+  },
+  {
+    "brand": "포드",
+    "model": "머스탱 컨버터블",
+    "year": 2022,
+    "mileage_km": 49877,
+    "price": "33,100,000 KRW",
+    "photo": "https://ci.encar.com/carpicture03/pic4163/41632843_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41634276"
+  },
+  {
+    "brand": "벤츠",
+    "model": "E-클래스 W213 E220d 4MATIC 익스클루시브",
+    "year": 2017,
+    "mileage_km": 125257,
+    "price": "20,900,000 KRW",
+    "photo": "https://ci.encar.com/carpicture06/pic4176/41769120_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41770927"
+  },
+  {
+    "brand": "벤츠",
+    "model": "C-클래스 C200",
+    "year": 1997,
+    "mileage_km": 64210,
+    "price": "25,000,000 KRW",
+    "photo": "https://ci.encar.com/carpicture04/pic4164/41648771_027.jpg",
+    "source_url": "https://www.encar.com/dc/dc_cardetailview.do?carid=41648789"
   }
 ]
