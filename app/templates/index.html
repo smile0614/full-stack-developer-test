@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Million Miles | Premium Cars</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="hero shell">
+      <nav class="topbar">
+        <div class="container topbar__content">
+          <div class="brand">Million Miles</div>
+          <button id="refreshBtn" class="btn">Refresh Data</button>
+        </div>
+      </nav>
+      <div class="hero__overlay"></div>
+      <div class="hero__content container">
+        <p class="eyebrow">Premium Auto Selection</p>
+        <h1>Luxury & trusted vehicles from ENCAR</h1>
+        <p class="subtitle">
+          Fresh listings, polished presentation, responsive cards, and reliable daily updates.
+        </p>
+      </div>
+    </header>
+
+    <main class="container shell main">
+      <section class="section-head">
+        <h2>Latest Inventory</h2>
+        <p>{{ cars|length }} vehicles available</p>
+      </section>
+      <section class="grid" id="carsGrid">
+        {% for car in cars %}
+        <article class="card">
+          <img src="{{ car.photo }}" alt="{{ car.brand }} {{ car.model }}" loading="lazy" onerror="this.src='https://via.placeholder.com/1200x760?text=No+Image';" />
+          <div class="card__body">
+            <h3>{{ car.brand }} {{ car.model }}</h3>
+            <ul class="meta">
+              <li><span>Year</span><strong>{{ car.year or "N/A" }}</strong></li>
+              <li><span>Mileage</span><strong>{% if car.mileage_km %}{{ "{:,}".format(car.mileage_km) }} km{% else %}N/A{% endif %}</strong></li>
+            </ul>
+            <div class="card__footer">
+              <strong class="price">{{ car.price }}</strong>
+              <a class="view" href="{{ car.source_url }}" target="_blank" rel="noreferrer">View Car</a>
+            </div>
+          </div>
+        </article>
+        {% endfor %}
+      </section>
+    </main>
+
+    <script>
+      const refreshBtn = document.getElementById("refreshBtn");
+      refreshBtn.addEventListener("click", async () => {
+        refreshBtn.disabled = true;
+        refreshBtn.textContent = "Refreshing...";
+        try {
+          await fetch("/api/refresh", { method: "POST" });
+          location.reload();
+        } catch (error) {
+          refreshBtn.textContent = "Try again";
+        } finally {
+          refreshBtn.disabled = false;
+        }
+      });
+    </script>
+  </body>
+  </html>
